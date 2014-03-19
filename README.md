@@ -6,7 +6,7 @@ Thanks for supporting our design, and enjoy!
 
 # Preview
 
-![Bootflat UI Kit](http://bootflat.github.io/img/bootflat-ui-kit.png "Bootflat UI Kit")
+![Bootflat UI Kit](http://bootflat.github.io/img/bootflat-ui-kit.jpg "Bootflat UI Kit")
 
 ## Features:
 
