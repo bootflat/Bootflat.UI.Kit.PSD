@@ -36,7 +36,7 @@ You will be able to quickly develop high-quality prototypes in full-color. Your 
 ## Community
 
 + Follow [@flathemes on Twitter](https://twitter.com/flathemes).
-+ Have a feature request or find a bug? [Submit an issue](https://github.com/angulargap/angulargap.github.io/issues).
++ Have a feature request or find a bug? [Submit an issue](https://github.com/bootflat/Bootflat.UI.Kit.PSD/issues).
 
 ## LICENSE
 
