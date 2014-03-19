@@ -4,7 +4,9 @@ Bootflat UI Kit is PSD User Interface Pack including a set of beautiful and pure
 
 Thanks for supporting our design, and enjoy!
 
+# Preview
 
+![Bootflat UI Kit](http://bootflat.github.io/img/bootflat-ui-kit.jpg "Bootflat UI Kit")
 
 ## Features:
 
