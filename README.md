@@ -1,11 +1,11 @@
-        ____              __  ______      __     __  ______   __ __ _ __ 
+        ____              __  ______      __     __  ______   __ __ _ __
        / __ )____  ____  / /_/ __/ /___ _/ /_   / / / /  _/  / //_/(_) /_
       / __  / __ \/ __ \/ __/ /_/ / __ `/ __/  / / / // /   / ,<  / / __/
-     / /_/ / /_/ / /_/ / /_/ __/ / /_/ / /_   / /_/ // /   / /| |/ / /_  
-    /_____/\____/\____/\__/_/ /_/\__,_/\__/   \____/___/  /_/ |_/_/\__/  
+     / /_/ / /_/ / /_/ / /_/ __/ / /_/ / /_   / /_/ // /   / /| |/ / /_
+    /_____/\____/\____/\__/_/ /_/\__,_/\__/   \____/___/  /_/ |_/_/\__/
 
-***								     
-              
+***
+
 # What is Bootflat UI Kit?
 
 Bootflat UI Kit is PSD User Interface Pack including a set of beautiful and pure components, which you can use to create startup projects, websites or iOS/Android Apps.
@@ -33,6 +33,8 @@ You will be able to quickly develop high-quality prototypes in full-color. Your 
 
 ## Changelog:
 
+2014/10/8 version 2.0.4
+
 2014/3/18 version 2.0.0
 
 ## Links:
@@ -49,4 +51,3 @@ You will be able to quickly develop high-quality prototypes in full-color. Your 
 ## LICENSE
 
 Bootflat UI Kit is licensed under the MIT Open Source license. For more information, please see the LICENSE file in this repository.
-
