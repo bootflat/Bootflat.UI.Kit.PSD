@@ -39,9 +39,12 @@ You will be able to quickly develop high-quality prototypes in full-color. Your 
 
 ## Links:
 
-+ [Bootflat Home page](http://bootflat.github.io/)
-+ [Bootflat Documentation page](http://bootflat.github.io/documentation.html)
-+ [Bootflat PSD page](http://bootflat.github.io/free-psd.html)
++ [Home page](http://bootflat.github.io)
++ [Getting Started](http://bootflat.github.io/getting-started.html)
++ [Documentation](http://bootflat.github.io/documentation.html)
++ [Flat UI Color Picker](http://bootflat.github.io/color-picker.html)
++ [Free PSD](http://bootflat.github.io/free-psd.html)
++ [Free Sketch](https://github.com/teracy-official/bootflat-ui-kit.sketch)
 
 ## Community
 
